@@ -22,10 +22,59 @@ This is the main site for the L.E.A.R.N school. It is designed to be responsibe 
         1. As a Frequent User, I want to check to see if there are any newly added courses or events.
         2. As a Frequent User, I want to check to see if there are any holidays or closures coming up.
 
-        *   ### Wireframes
+-   ### Design
+    -   #### Colour Scheme
+        -   Needs to be filled out
+    -   #### Typography
+        -   Needs to be filled out
+    -   #### Imagery
+        -   Needs to be filled out
 
-    -   Home Page Wireframe - [View](https://github.com/)
+*   ## Wireframes
 
-    -   Mobile Wireframe - [View](https://github.com/)
+    -   #### Desktop
+        1.  Home Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/desktop/Home%20Page%20Desktop%20Version.png)
+        2.  Courses Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/desktop/Courses%20Page%20Desktop%20Version.png)
+        3.  Contact Us Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/desktop/Contact_Sign%20Up%20Page%20Desktop%20Version.png)
+        4.  About Us Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/desktop/About%20Us%20Page%20Desktop%20Version.png)
 
-    -   Contact Us Page Wireframe - [View](https://github.com/)
+    -   #### Tablet
+        1.  Home Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/tablet/Home%20Page%20Tablet%20Version.png)
+        2.  Courses Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/tablet/Courses%20Page%20Tablet%20Version.png)
+        3.  Contact Us Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/tablet/Contact_Sign%20Up%20Page%20Tablet%20Version.png)
+        4.  About Us Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/tablet/About%20Us%20Page%20Tablet%20Version.png)
+
+    -   #### Mobile
+        1.  Home Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/mobile/Home%20Page%20Mobile%20Version.png)
+        2.  Courses Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/mobile/Courses%20Page%20Mobile%20Version.png)
+        3.  Contact Us Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/mobile/Contact_Sign%20Up%20Page%20Mobile%20Version.png)
+        4.  About Us Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/mobile/About%20Us%20Page%20Mobile%20Version.png)
+
+## Features
+
+-   Responsive on all device sizes
+
+-   Interactive elements
+
+## Technologies Used
+
+### Languages Used
+
+-   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+-   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+### Frameworks, Libraries & Programs Used
+
+1. [Google Fonts:](https://fonts.google.com/)
+    - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
+2. [Font Awesome:](https://fontawesome.com/)
+    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+3. [Git](https://git-scm.com/)
+    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+4. [GitHub:](https://github.com/)
+    - GitHub is used to store the projects code after being pushed from Git.
+5. [Balsamiq:](https://balsamiq.com/)
+    - Balsamiq was used to create the [wireframes](https://github.com/KevAndrews/Milestone_Project_1/tree/main/wireframes) during the design process.
+
+## Testing
+[You can find testing here]
