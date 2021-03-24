@@ -77,4 +77,4 @@ This is the main site for the L.E.A.R.N school. It is designed to be responsibe 
     - Balsamiq was used to create the [wireframes](https://github.com/KevAndrews/Milestone_Project_1/tree/main/wireframes) during the design process.
 
 ## Testing
-[You can find testing here]
+[You can find testing here!](https://github.com/KevAndrews/Milestone_Project_1/blob/main/TESTING.md)
