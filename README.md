@@ -82,3 +82,4 @@ This is the main site for the L.E.A.R.N school. It is designed to be responsibe 
 ### Bugs & Fixes
 
 -   Footer columns were left align needed to center and right align the mid and right columns, found fix on [StackOverflow]https://stackoverflow.com/questions/42442323/bootstrap-col-align-right
+-   Unnecessary Horizontal scrollbar and margin-right, need to remove this. Solved this by setting padding and margin to zero for class .row
