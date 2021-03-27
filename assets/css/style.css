@@ -1,3 +1,28 @@
+body{
+    background-color: #f3f3ee;
+}
+
+.container-fluid{
+    padding:0;
+}
+
+/*-- navbar --*/
+.navbar{
+    padding:0;
+}
+
+.nav-custom{
+    background-color: #1a843e;
+}
+
+.nav-custom a{
+    color: #f3f3ee;
+}
+
+.active{
+    text-decoration: underline;
+}
+
 @media only screen and (max-width: 850px) {
   #subTitle {
     display: none;
