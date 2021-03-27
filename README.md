@@ -78,3 +78,7 @@ This is the main site for the L.E.A.R.N school. It is designed to be responsibe 
 
 ## Testing
 [You can find testing here!](https://github.com/KevAndrews/Milestone_Project_1/blob/main/TESTING.md)
+
+### Bugs & Fixes
+
+-   Footer columns were left align needed to center and right align the mid and right columns, found fix on [StackOverflow]https://stackoverflow.com/questions/42442323/bootstrap-col-align-right
