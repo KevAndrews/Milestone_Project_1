@@ -1,7 +1,7 @@
 <h1 align="center">L.E.A.R.N</h1> 
 <h2 align="center">Learning English Aligned to Real Needs</h2>
 This is the main site for the L.E.A.R.N school. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students
-<h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
+
 
 ## User Experience (UX)
 
