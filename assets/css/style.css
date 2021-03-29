@@ -25,6 +25,12 @@ footer i{
     padding:0;
 }
 
+/* Hover.css */
+
+.hvr-sweep-to-right:before{
+    background-color: rgba(170, 213, 118, 0.2);
+}
+
 /* navbar */
 .navbar{
     padding:0;
@@ -32,6 +38,7 @@ footer i{
 
 .nav-custom{
     background-color: #1a843e;
+    height: 120px;
     padding: 0 10px;
 }
 
@@ -58,7 +65,7 @@ footer i{
 }
 
 .nav-link:hover{
-    background-color: rgba(0, 0, 0, .15);
+   /*background-color: rgba(0, 0, 0, .15);*/
     color: #f3f3ee;
     text-decoration: underline;
 }
