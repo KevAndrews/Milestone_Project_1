@@ -38,7 +38,6 @@ footer i{
 
 .nav-custom{
     background-color: #1a843e;
-    height: 120px;
     padding: 0 10px;
 }
 
@@ -105,6 +104,56 @@ footer i{
 .events h2{
 	color: #f3f3ee;
 }
+
+.callout-container {
+    height: 60vh;
+
+    background: url('../images/hero_image_resized.jpg') no-repeat bottom right fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* Jumbotron */
+
+.jumbotron {
+    background-color: transparent;
+}
+
+.jumbotron h1 {
+    color: white;
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: white;
+}
+
+.jumbotron .lead {
+    color: #a7a7a7;
+    margin: 25px 0;
+}
+
+.jumbotron small {
+    font-size: 60%;
+    font-style: italic;
+    color: #d0d0d0;
+}
+
 
 /* navbar Media Queries */
 @media only screen and (max-width: 980px) {
