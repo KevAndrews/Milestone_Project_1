@@ -24,11 +24,14 @@ This is the main site for the L.E.A.R.N school. It is designed to be responsibe 
 
 -   ### Design
     -   #### Colour Scheme
-        -   Needs to be filled out
+        -   I used the colour scheme of the Irish flag throughout the site, the Hex values I used are:
+        -   #169B62 - For Green
+        -   #f3f3ee - For White
+        -   #FF883E - For Orange
     -   #### Typography
-        -   Needs to be filled out
+        -   I deicided on using Google Fonts Lexend and Roboto throughout the site to have a clean and clear font face.
     -   #### Imagery
-        -   Needs to be filled out
+        -   The hero image on the main page is from unsplash [Photographer Javier Trueba](https://unsplash.com/@javotrueba?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) and I used this [Image](https://unsplash.com/photos/iQPr1XkF5F0).
 
 *   ## Wireframes
 
@@ -83,7 +86,7 @@ This is the main site for the L.E.A.R.N school. It is designed to be responsibe 
 
 ### Bugs & Fixes
 
--   Footer columns were left align needed to center and right align the mid and right columns, found fix on [StackOverflow]https://stackoverflow.com/questions/42442323/bootstrap-col-align-right
+-   Footer columns were left align needed to center and right align the mid and right columns, found fix on [StackOverflow](https://stackoverflow.com/questions/42442323/bootstrap-col-align-right)
 -   Unnecessary Horizontal scrollbar and margin-right, need to remove this. Solved this by setting padding and margin to zero for class .row
--   Set footer to bottom of viewport, found fix on [FreeCodeCamp]https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/
+-   Set footer to bottom of viewport, found fix on [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/)
 -   Burger menu not working, Issue resolved I was missing the JS cdn at the end of my HTML body
