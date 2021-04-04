@@ -1,54 +1,54 @@
 @import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100;300;400;500;600;700;800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
-body{
+body {
     background-color: #f3f3ee;
     color: #2D3A3A;
     font-family: 'Lexend', sans-serif;
 }
 
 /* Mission Styles, Removes padding and margins for the Mission Statement section */
-.mission{
+.mission {
     padding: 0;
     margin: 0;
 }
 
 /* Study Styles, Removes padding and margins for the Why study with us section */
-.study{
+.study {
     padding: 0;
     margin: 0;
 }
 
-.study h2{
+.study h2 {
     text-align: center;
 }
 
 /* Container Custom Code */
-.container-fluid{
+.container-fluid {
     padding:0;
 }
 
 /* Navbar Styles */
 
 /* Used the Whiskey Drop CSS for the Navbar*/
-.navbar{
+.navbar {
     padding:0;
 }
 
-.active{
+.active {
     text-decoration: underline;
 }
 
-.navbar-brand{
+.navbar-brand {
     font-size: 280%;
     font-family: 'Roboto', sans-serif;
     color: #f3f3ee;
 }
 
-.navbar-brand:hover{
+.navbar-brand:hover {
     color: #f3f3ee;
 }
 
-.nav-link{
+.nav-link {
     color: #f3f3ee;
     font-size: 110%;
     font-weight: 400;
@@ -56,26 +56,26 @@ body{
     padding-bottom: 0;
 }
 
-.navbar-nav{
+.navbar-nav {
     margin-top: 10px;
 }
 
-.nav-link:hover{
+.nav-link:hover {
     color: #f3f3ee;
     text-decoration: underline;
 }
 
-.navbar-toggler{
+.navbar-toggler {
     border: 2px solid #f3f3ee;
 }
 
 /* Custom Code */
-.nav-custom{
+.nav-custom {
     background-color: #169B62;
     padding: 0 10px;
 }
 
-#subTitle{
+#subTitle {
     font-size: 18px;
     font-family: 'Lexend', sans-serif;
 }
@@ -86,62 +86,60 @@ body{
 }
 
 /* Hover.css from https://ianlunn.github.io/Hover */
-.hvr-sweep-to-right:before{
+.hvr-sweep-to-right:before {
     background-color: #FF883E;
 }
 
 
 /* Footer Styles, Custom Code */ 
-footer{
+footer {
     background-color: #169B62;
     color: #f3f3ee;
     padding: 10px 0;
 }
 
-footer i{
+footer i {
     color: #f3f3ee;
     font-size: 180%;
 }
 
-footer i:hover{
+footer i:hover {
     color: #FF883E;
 }
 
-.contactInfo a{
+.contactInfo a {
     color: #f3f3ee;
 }
 
-.contactInfo a:hover{
+.contactInfo a:hover {
     color: #FF883E;
 }
 
-.right{
+.right {
     float: right;  
 }
 
-.row{
+.row {
     margin:0;
     padding:0;
 }
 
 
 /* Events Styles, Started out as the Times section from the Love Running Project*/
-.events{
+.events {
 	color: #f3f3ee;
-    background-color: rgba(0,0,0, .6);
+    background-color: rgba(0, 0, 0, .6);
     padding: 10px 0;
 }
 
-.events ul{
+.events ul {
     margin: 0;
 }
 
 /* CSS found here https://stackoverflow.com/questions/5449872/css-notlast-childafter-selector */
-.events ul li:not(:last-child){
+.events ul li:not(:last-child) {
     border-right: 2px solid #FF883E;
 }
-
-
 
 /* Jumbotron and Hero Image section, Code from the Whiskey Drop CSS */
 .callout-container {
@@ -209,7 +207,7 @@ footer i:hover{
     }
 
     /* Scales the text to fit on Mobile */
-    .jumbotron h1{
+    .jumbotron h1 {
         font-size: 1.2rem;
     }
 
@@ -218,12 +216,12 @@ footer i:hover{
     }
 
     /* Floats the Social links under contact info on mobile */
-    .right{
+    .right {
         float: left;  
     }
 
     /* CSS found here https://stackoverflow.com/questions/5449872/css-notlast-childafter-selector */
-    .events ul li:not(:last-child){
+    .events ul li:not(:last-child) {
         border-right: none;
         border-bottom: 2px solid #FF883E;
     }
