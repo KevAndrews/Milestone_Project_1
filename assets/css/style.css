@@ -86,6 +86,10 @@ footer i{
     font-size: 180%;
 }
 
+.right{
+    float: right;  
+}
+
 .row{
     margin:0;
     padding:0;
@@ -162,18 +166,24 @@ footer i{
     background-color: #FF883E;
 }
 
-/* Navbar Media Queries Custom Code */
+/* Media Queries Custom Code */
 @media only screen and (max-width: 980px) {
     /* Hide the Title text for smaller screens */
     #subTitle {
         display: none;
     }
 
+    /* Scales the text to fit on Mobile */
     .jumbotron h1{
         font-size: 1.2rem;
     }
 
     .jumbotron .lead {
         font-size: .75rem;
+    }
+
+    /* Floats the Social links under contact info on mobile */
+    .right{
+        float: left;  
     }
 }
