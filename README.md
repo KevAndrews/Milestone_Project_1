@@ -32,6 +32,8 @@ This is the main site for the L.E.A.R.N school. It is designed to be responsibe 
 
 *   ## Wireframes
 
+    -   #### Balsamiq - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/Milestone_project_1.bmpr)
+
     -   #### Desktop
         1.  Home Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/desktop/Home%20Page%20Desktop%20Version.png)
         2.  Courses Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/desktop/Courses%20Page%20Desktop%20Version.png)
@@ -66,7 +68,7 @@ This is the main site for the L.E.A.R.N school. It is designed to be responsibe 
 ### Frameworks, Libraries & Programs Used
 
 1. [Google Fonts:](https://fonts.google.com/)
-    - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
+    - Google fonts were used to import the font into the style.css file which is used on all pages throughout the project.
 2. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 3. [Git](https://git-scm.com/)
