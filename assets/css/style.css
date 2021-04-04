@@ -6,6 +6,22 @@ body{
     font-family: 'Lexend', sans-serif;
 }
 
+/* Mission Styles, Removes padding and margins for the Mission Statement section */
+.mission{
+    padding: 0;
+    margin: 0;
+}
+
+/* Study Styles, Removes padding and margins for the Why study with us section */
+.study{
+    padding: 0;
+    margin: 0;
+}
+
+.study h2{
+    text-align: center;
+}
+
 /* Container Custom Code */
 .container-fluid{
     padding:0;
@@ -75,7 +91,7 @@ body{
 }
 
 
-/* Footer Custom Code */ 
+/* Footer Styles, Custom Code */ 
 footer{
     background-color: #169B62;
     color: #f3f3ee;
@@ -109,7 +125,7 @@ footer i:hover{
 }
 
 
-/* From the Love Running Project, using this to build a Calendar for the school*/
+/* Events Styles, Started out as the Times section from the Love Running Project*/
 .events{
 	color: #f3f3ee;
     background-color: rgba(0,0,0, .6);
@@ -127,8 +143,7 @@ footer i:hover{
 
 
 
-/* Jumbotron and Hero Image section, Code from the Whiskey Drop CSS  */
-
+/* Jumbotron and Hero Image section, Code from the Whiskey Drop CSS */
 .callout-container {
     height: 60vh;
 
@@ -171,9 +186,13 @@ footer i:hover{
 }
 
 /* Block dividers */
-
 .block-divider {
     width: 35%;
+    height: 2px;
+    border: 0;
+}
+
+.event-divider {
     height: 2px;
     border: 0;
 }
