@@ -71,7 +71,7 @@ body{
 
 /* Hover.css from https://ianlunn.github.io/Hover */
 .hvr-sweep-to-right:before{
-    background-color: rgba(170, 213, 118, 0.2);
+    background-color: #FF883E;
 }
 
 
@@ -79,11 +79,24 @@ body{
 footer{
     background-color: #169B62;
     color: #f3f3ee;
+    padding-top: 10px;
 }
 
 footer i{
     color: #f3f3ee;
     font-size: 180%;
+}
+
+footer i:hover{
+    color: #FF883E;
+}
+
+.contactInfo a{
+    color: #f3f3ee;
+}
+
+.contactInfo a:hover{
+    color: #FF883E;
 }
 
 .right{
@@ -109,6 +122,10 @@ footer i{
 .events h2{
 	color: #f3f3ee;
 }
+
+
+
+/* Jumbotron and Hero Image section, Code from the Whiskey Drop CSS  */
 
 .callout-container {
     height: 60vh;
@@ -136,17 +153,14 @@ footer i{
     background-color: rgba(0, 0, 0, 0.5);
 }
 
-/* Jumbotron */
-
 .jumbotron {
     background-color: rgba(0, 0, 0, 0.5);
 }
 
 .jumbotron h1 {
-    color: white;
+    color: #f3f3ee;
     font-weight: bold;
     margin: 30px 0px;
-    color: white;
 }
 
 .jumbotron .lead {
