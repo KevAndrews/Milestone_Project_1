@@ -55,7 +55,7 @@ body{
 
 /* Custom Code */
 .nav-custom{
-    background-color: #1a843e;
+    background-color: #169B62;
     padding: 0 10px;
 }
 
@@ -76,7 +76,7 @@ body{
 
 /* Footer Custom Code */ 
 footer{
-    background-color: #1a843e;
+    background-color: #169B62;
     color: #f3f3ee;
 }
 
@@ -144,14 +144,21 @@ footer i{
 }
 
 .jumbotron .lead {
-    color: #a7a7a7;
+    color: #f3f3ee;
     margin: 25px 0;
 }
 
-.jumbotron small {
-    font-size: 60%;
-    font-style: italic;
-    color: #d0d0d0;
+/* Block dividers */
+
+.block-divider {
+    width: 35%;
+    height: 2px;
+    border: 0;
+    background-color: #444;
+}
+
+.block-divider--orange {
+    background-color: #FF883E;
 }
 
 
