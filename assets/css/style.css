@@ -112,15 +112,17 @@ footer i:hover{
 /* From the Love Running Project, using this to build a Calendar for the school*/
 .events{
 	color: #f3f3ee;
-	background-color: rgba(0,0,0, .6);
-	height: 250px;
-    float: left; 
-    border-right: 2px solid #f3f3ee;
-    text-align: center;
+    background-color: rgba(0,0,0, .6);
+    padding: 10px 0;
 }
 
-.events h2{
-	color: #f3f3ee;
+.events ul{
+    margin: 0;
+}
+
+/* CSS found here https://stackoverflow.com/questions/5449872/css-notlast-childafter-selector */
+.events ul li:not(:last-child){
+    border-right: 2px solid #FF883E;
 }
 
 
@@ -199,5 +201,11 @@ footer i:hover{
     /* Floats the Social links under contact info on mobile */
     .right{
         float: left;  
+    }
+
+    /* CSS found here https://stackoverflow.com/questions/5449872/css-notlast-childafter-selector */
+    .events ul li:not(:last-child){
+        border-right: none;
+        border-bottom: 2px solid #FF883E;
     }
 }
