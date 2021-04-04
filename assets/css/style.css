@@ -1,44 +1,21 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100;300;400;500;600;700;800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
 body{
     background-color: #f3f3ee;
     color: #2D3A3A;
-    font-family: 'Lato';
+    font-family: 'Lexend', sans-serif;
 }
 
+/* Container Custom Code */
 .container-fluid{
     padding:0;
 }
 
-footer{
-    background-color: #1a843e;
-    color: #f3f3ee;
-}
+/* Navbar Styles */
 
-footer i{
-    color: #f3f3ee;
-    font-size: 180%;
-}
-
-.row{
-    margin:0;
-    padding:0;
-}
-
-/* Hover.css */
-
-.hvr-sweep-to-right:before{
-    background-color: rgba(170, 213, 118, 0.2);
-}
-
-/* navbar */
+/* Used the Whiskey Drop CSS for the Navbar*/
 .navbar{
     padding:0;
-}
-
-.nav-custom{
-    background-color: #1a843e;
-    padding: 0 10px;
 }
 
 .active{
@@ -47,7 +24,7 @@ footer i{
 
 .navbar-brand{
     font-size: 280%;
-    font-family: 'Oswald';
+    font-family: 'Roboto', sans-serif;
     color: #f3f3ee;
 }
 
@@ -68,7 +45,6 @@ footer i{
 }
 
 .nav-link:hover{
-   /*background-color: rgba(0, 0, 0, .15);*/
     color: #f3f3ee;
     text-decoration: underline;
 }
@@ -77,14 +53,43 @@ footer i{
     border: 2px solid #f3f3ee;
 }
 
-.navbar-toggler-icon {
-  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(243, 243, 238, 0.75)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+/* Custom Code */
+.nav-custom{
+    background-color: #1a843e;
+    padding: 0 10px;
 }
 
 #subTitle{
     font-size: 18px;
-    font-family: 'Lato';
+    font-family: 'Lexend', sans-serif;
 }
+
+/* Needed to change the colour of the Burger menu on Mobile, found the fix here: https://stackoverflow.com/questions/42586729/bootstrap-4-change-hamburger-toggler-color */
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(243, 243, 238, 0.75)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+/* Hover.css from https://ianlunn.github.io/Hover */
+.hvr-sweep-to-right:before{
+    background-color: rgba(170, 213, 118, 0.2);
+}
+
+/* Footer Custom Code */ 
+footer{
+    background-color: #1a843e;
+    color: #f3f3ee;
+}
+
+footer i{
+    color: #f3f3ee;
+    font-size: 180%;
+}
+
+.row{
+    margin:0;
+    padding:0;
+}
+
 
 /* From the Love Running Project, using this to build a Calendar for the school*/
 .events{
@@ -150,9 +155,10 @@ footer i{
 }
 
 
-/* navbar Media Queries */
+/* Navbar Media Queries Custom Code */
 @media only screen and (max-width: 980px) {
-  #subTitle {
-    display: none;
-  }
+    /* Hide the Title text for smaller screens */
+    #subTitle {
+        display: none;
+    }
 }
