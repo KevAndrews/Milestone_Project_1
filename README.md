@@ -31,7 +31,7 @@ This is the main site for the L.E.A.R.N school. It is designed to be responsibe 
     -   #### Typography
         -   I deicided on using Google Fonts Lexend and Roboto throughout the site to have a clean and clear font face.
     -   #### Imagery
-        -   The hero image on the main page is from unsplash [Photographer Javier Trueba](https://unsplash.com/@javotrueba?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) and I used this [Image](https://unsplash.com/photos/iQPr1XkF5F0).
+        -   The hero image and backgroud image on the main page and Contact Us page are from unsplash [Photographer Javier Trueba](https://unsplash.com/@javotrueba?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) and I used this [Hero Image](https://unsplash.com/photos/iQPr1XkF5F0) and [Sign Up Image](https://unsplash.com/photos/y1GTwSUMRUc).
 
 *   ## Wireframes
 

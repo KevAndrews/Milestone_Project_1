@@ -275,6 +275,65 @@ footer i:hover {
   background-color: #f3f3ee;
 }
 
+/* Contact Us Styles, Used the Love Running Project */
+.form-section {
+    clear: both;
+    background: url("../images/Signup.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+    padding-top: 120px;
+}
+
+.signup-form{
+    margin: 0 auto;
+    color: #f3f3ee;
+    background-color: rgba(60, 60, 60, 0.8);
+    max-width: 400px;
+    padding: 30px;
+}
+
+.signup-form h2{
+    color: #f3f3ee;
+    margin-bottom: 20px;
+}
+
+.text-input{
+    background-color: transparent;
+    color: #f3f3ee;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #f3f3ee;
+    border-radius: 2px;
+}
+
+.text-input:hover{
+    border-color: #FF883E;
+}
+
+/* Custom Code */
+#query{
+    min-height: 150px;
+}
+
+.join-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    border: 0;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: #FF883E;
+    color: #f3f3ee;
+    display: block;
+}
+
+.join-button:hover{
+    background-color: #f3f3ee;
+    color: #FF883E;
+}
+
 /* Media Queries Custom Code */
 @media only screen and (max-width: 980px) {
     /* Hide the Title text for smaller screens */
@@ -301,4 +360,13 @@ footer i:hover {
         border-right: none;
         border-bottom: 2px solid #FF883E;
     }
+
+}
+
+@media only screen and (max-width: 450px) {
+    .signup-form{
+        max-width: 350px;
+        left: 1%;
+    }
+
 }
