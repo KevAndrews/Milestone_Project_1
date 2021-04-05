@@ -204,6 +204,10 @@ footer i:hover {
     height: 200px;
 }
 
+.study{
+    margin-top: 25px;
+}
+
 .study i{
     font-size: 480%;
     width: 85px;
