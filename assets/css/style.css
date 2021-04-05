@@ -201,11 +201,12 @@ footer i:hover {
 
 /* Study Styles, Custom code*/
 .reasons{
-    max-height: 250px;
+    height: 200px;
 }
 
 .study i{
     font-size: 480%;
+    width: 85px;
 }
 
 .divider--orange {
