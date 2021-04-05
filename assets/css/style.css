@@ -199,6 +199,21 @@ footer i:hover {
     background-color: #FF883E;
 }
 
+/* Study Styles, Custom code*/
+.reasons{
+    max-height: 250px;
+}
+
+.study i{
+    font-size: 480%;
+}
+
+.divider--orange {
+    border-left: 2px solid #FF883E;
+    padding-left: 20px;
+    margin-left: 20px;
+}
+
 /* Media Queries Custom Code */
 @media only screen and (max-width: 980px) {
     /* Hide the Title text for smaller screens */
