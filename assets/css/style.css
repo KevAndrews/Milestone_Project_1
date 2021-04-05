@@ -239,7 +239,7 @@ footer i:hover {
 
 /* Collapsible tutorial from W3schools https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_collapsible */
 .collapsible {
-  background-color: #FF883E;
+  background-color: rgba(0, 0, 0, .6);
   color: #f3f3ee;
   cursor: pointer;
   padding: 18px;
@@ -251,12 +251,12 @@ footer i:hover {
 }
 
 .active, .collapsible:hover {
-  background-color: #FF883E;
+  background-color: rgba(0, 0, 0, .6);
 }
 
 .collapsible:after {
   content: '\002B';
-  color: #f3f3ee;
+  color: #FF883E;
   font-weight: bold;
   float: right;
   margin-left: 5px;
