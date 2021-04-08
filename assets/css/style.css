@@ -269,6 +269,29 @@ footer i:hover {
     min-height: 150px;
 }
 
+/* About Us Styles, Custom Code */
+.teachers h2{
+    text-align: center;
+}
+
+.aboutus{
+    margin: 60px 0;
+}
+
+.aboutus h2{
+    text-align: center;
+}
+
+.aboutus p{
+    width: 90%;
+    padding-left: 10%;
+}
+
+.media img {
+    max-width: 200px;
+    max-height: 200px;
+}
+
 
 /* Collapsible tutorial from W3schools https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_collapsible */
 .collapsible {
