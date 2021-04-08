@@ -244,9 +244,29 @@ footer i:hover {
     float: right;
 }
 
+.modal-content{
+    background-color: #169B62;
+}
+
+.modal-content h5, label{
+    color: #f3f3ee;
+}
+
+.modal-content label{
+    font-weight: bold;
+}
+
 .modal-body input[type=submit]{
     border: 2px solid black;
     float: right;
+}
+
+.register{
+    background-color: #169B62;
+}
+
+#courseneed{
+    min-height: 150px;
 }
 
 
