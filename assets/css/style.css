@@ -236,6 +236,12 @@ footer i:hover {
 .classes{
     margin-bottom: 20px;
     float:  left;
+    width: 80%;
+}
+
+.classes input{
+    border: 2px solid black;
+    float: right;
 }
 
 /* Collapsible tutorial from W3schools https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_collapsible */
