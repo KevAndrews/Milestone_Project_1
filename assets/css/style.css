@@ -235,6 +235,7 @@ footer i:hover {
 
 .classes{
     margin-bottom: 20px;
+    float:  left;
 }
 
 /* Collapsible tutorial from W3schools https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_collapsible */
