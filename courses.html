@@ -52,7 +52,8 @@
                     <p>
                         Hello Wolrd!
                     </p>
-                    <input type="submit" value="Register" class="join-button">
+                    <input type="submit" value="Register" data-toggle="modal" data-target="#registerModal"
+                        class="join-button">
                 </div>
             </div>
             <div class="d-block clearfix">
@@ -132,6 +133,41 @@
                 </div>
             </div>
         </footer>
+    </div>
+
+    <!-- Used the Whiskey Drop Project Model example -->
+    <div class="modal" tabindex="-1" role="dialog" id="registerModal">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Register with Us today!</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form action="https://formdump.codeinstitute.net/" method="POST">
+                        <div class="form-group">
+                            <label for="fname">First Name</label>
+                            <input type="text" id="fname" name="first_name" class="text-input" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="lname">Last Name</label>
+                            <input type="text" id="lname" name="last_name" class="text-input" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Email Address</label>
+                            <input type="email" id="email" name="email_address" class="text-input" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="query">Query</label>
+                            <textarea class="text-input" rows="15" name="query" Id="query" value=""> </textarea>
+                        </div>
+                        <input type="submit" value="Register" class="join-button">
+                    </form>
+                </div>
+            </div>
+        </div>
     </div>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
         integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
