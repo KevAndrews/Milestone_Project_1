@@ -380,7 +380,7 @@ footer i:hover {
 }
 
 .signup-form{
-    margin: 0 auto;
+    margin-left: 2%;
     color: #f3f3ee;
     background-color: rgba(60, 60, 60, 0.8);
     max-width: 400px;
