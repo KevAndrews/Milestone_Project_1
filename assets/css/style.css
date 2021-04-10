@@ -287,11 +287,22 @@ footer i:hover {
     padding-left: 10%;
 }
 
-.media img {
+.teacher{
+    margin-left: 25%;
+    margin-bottom: 20px;
+}
+
+.teacher div {
+    max-width: 800px;
+    display: inline-block;
+}
+
+.teacherimg img{
+    border-right: 2px solid #FF883E;
+    padding-right: 5px;
     max-width: 200px;
     max-height: 200px;
 }
-
 
 /* Collapsible tutorial from W3schools https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_collapsible */
 .collapsible {
@@ -425,4 +436,28 @@ footer i:hover {
         left: 1%;
     }
 
+    /* Fix found on https://codepen.io/luiscarvalho/pen/zBazkZ*/
+    .teacher { 
+        display: flex; 
+        flex-flow: column; 
+        margin-left: 0%;
+    }
+
+    .teacherimg { 
+        order: 1;
+        width: 100%;
+    }
+
+    .teacherimg img{
+        border-right: 0;
+        padding-right: 0;
+        margin-left: 25%;
+        border-bottom: 2px solid #FF883E;
+        padding-bottom: 10px;
+    }
+
+    .teacherbio { 
+        order: 2; 
+        padding: 0 10px;
+    }
 }
