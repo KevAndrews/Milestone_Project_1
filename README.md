@@ -32,48 +32,71 @@ L.E.A.R.N provides custom English learning courses that align to the real needs 
 ## Structure Plane
 
 ## Skeleton Plane
+### Wireframes
+
+-   #### Balsamiq - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/Milestone_project_1.bmpr)
+
+-   #### Desktop
+    1.  Home Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/desktop/Home%20Page%20Desktop%20Version.png)
+    
+    2.  Courses Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/desktop/Courses%20Page%20Desktop%20Version.png)
+    
+    3.  Contact Us Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/desktop/Contact_Sign%20Up%20Page%20Desktop%20Version.png)
+    
+    4.  About Us Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/desktop/About%20Us%20Page%20Desktop%20Version.png)
+
+-   #### Tablet
+    1.  Home Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/tablet/Home%20Page%20Tablet%20Version.png)
+
+    2.  Courses Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/tablet/Courses%20Page%20Tablet%20Version.png)
+
+    3.  Contact Us Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/tablet/Contact_Sign%20Up%20Page%20Tablet%20Version.png)
+
+    4.  About Us Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/tablet/About%20Us%20Page%20Tablet%20Version.png)
+
+-   #### Mobile
+
+    1.  Home Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/mobile/Home%20Page%20Mobile%20Version.png)
+
+    2.  Courses Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/mobile/Courses%20Page%20Mobile%20Version.png)
+    
+    3.  Contact Us Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/mobile/Contact_Sign%20Up%20Page%20Mobile%20Version.png)
+    
+    4.  About Us Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/mobile/About%20Us%20Page%20Mobile%20Version.png)
 
 ## Surface Plane
 
 -   ### Design
     -   #### Colour Scheme
-        -   I used the colour scheme of the Irish flag throughout the site, the Hex values I used are:
+        The colour scheme I used for the site were taken from the Irish flag I deicided to used this colour scheme to give the site a different look from other school site, the Hex values I used are:
+
         -   #169B62 - For Green
         -   #f3f3ee - For White
         -   #FF883E - For Orange
+
+        These values were taken from [schemecolor](https://www.schemecolor.com/ireland-flag-colors.php). I deicided to use a different white so it would be easier on the eyes.
+
     -   #### Typography
         -   I deicided on using Google Fonts Lexend and Roboto throughout the site to have a clean and clear font face.
     -   #### Imagery
         -   The hero image and backgroud image on the main page and Contact Us page are from unsplash [Photographer Javier Trueba](https://unsplash.com/@javotrueba?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) and I used this [Hero Image](https://unsplash.com/photos/iQPr1XkF5F0) and [Sign Up Image](https://unsplash.com/photos/y1GTwSUMRUc).
-        -   The HR image are from unsplash [Photographer Christina @ wocintechchat.com](https://unsplash.com/@wocintechchat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) and I used this [HR Image](https://unsplash.com/photos/0Zx1bDv5BNY). 
-
-*   ## Wireframes
-
-    -   #### Balsamiq - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/Milestone_project_1.bmpr)
-
-    -   #### Desktop
-        1.  Home Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/desktop/Home%20Page%20Desktop%20Version.png)
-        2.  Courses Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/desktop/Courses%20Page%20Desktop%20Version.png)
-        3.  Contact Us Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/desktop/Contact_Sign%20Up%20Page%20Desktop%20Version.png)
-        4.  About Us Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/desktop/About%20Us%20Page%20Desktop%20Version.png)
-
-    -   #### Tablet
-        1.  Home Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/tablet/Home%20Page%20Tablet%20Version.png)
-        2.  Courses Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/tablet/Courses%20Page%20Tablet%20Version.png)
-        3.  Contact Us Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/tablet/Contact_Sign%20Up%20Page%20Tablet%20Version.png)
-        4.  About Us Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/tablet/About%20Us%20Page%20Tablet%20Version.png)
-
-    -   #### Mobile
-        1.  Home Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/mobile/Home%20Page%20Mobile%20Version.png)
-        2.  Courses Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/mobile/Courses%20Page%20Mobile%20Version.png)
-        3.  Contact Us Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/mobile/Contact_Sign%20Up%20Page%20Mobile%20Version.png)
-        4.  About Us Page Wireframe - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/mobile/About%20Us%20Page%20Mobile%20Version.png)
+        -   The HR image are from unsplash [Photographer Christina @ wocintechchat.com](https://unsplash.com/@wocintechchat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) and I used this [HR Image](https://unsplash.com/photos/0Zx1bDv5BNY).
 
 ## Features
 
--   Responsive on all device sizes
+-   Responsive on all device sizes.
 
--   Interactive elements
+-   Navbar will collapse to a Burger Menu on small displays.
+
+-   The Subtitle will disappear on small displays.
+
+-   The Home page provide a clear mission statment to the end user and the imagry and sub-headings convey a clear educational environment.
+
+-   The Courses Page conveys a brief description of the course and a call to action.
+
+-   The Contact Us Page has a user friendly form and a clear call to action.
+
+-   The About Us Page conveys the background of the school and a short introduction to the Heads of department.
 
 ## Technologies Used
 
@@ -100,6 +123,8 @@ L.E.A.R.N provides custom English learning courses that align to the real needs 
     - GitHub is used to store the projects code after being pushed from Git.
 8. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/KevAndrews/Milestone_Project_1/tree/main/wireframes) during the design process.
+9. [Tinypng](https://tinypng.com/) 
+    -   was used to reduce the image file sizes.
 
 ## Testing
 [You can find testing here!](https://github.com/KevAndrews/Milestone_Project_1/blob/main/TESTING.md)
@@ -111,3 +136,46 @@ L.E.A.R.N provides custom English learning courses that align to the real needs 
 -   Set footer to bottom of viewport, found fix on [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/)
 -   Burger menu not working, Issue resolved I was missing the JS cdn at the end of my HTML body
 -   Jumbotron Text covers the menu on smaller screens.
+
+<h1>Deployment</h1>
+
+## The project was deployed to GitHub Pages in the following way:
+1.	By logging in to the [GitHub Repository](https://github.com/).
+2.	Selecting the "Settings" Button in the menu at the top of the Repository.
+3.	Scrolling down the Settings page to the "GitHub Pages" Section.
+4.	Under "Source", clicking the dropdown menu labelled "None" and selecting "Master Branch".
+5.	The page then refreshes itself.
+6.	Scrolling back down the page to locate the [link to the published site](https://kevandrews.github.io/Milestone_Project_1/)  in "GitHub Pages".
+
+## Forking the GitHub Repository
+The GitHub Repository can be forked to make a copy of the original repository on the GitHub account to view and/or make changes without affecting the original repository in the following way.
+1.	By logging in to GitHub and locating the [GitHub Repository](https://github.com/KevAndrews/Milestone_Project_1).
+2.	Selecting the "Fork" button at the top of the Repository (it is located at the top right of the page under the profile image).
+3.	There should then be a copy of the original repository in your GitHub account.
+
+## Making a Local Clone
+The GitHub Repository can be cloned in the following way:
+
+1.	By logging in to GitHub and locating the [GitHub Repository](https://github.com/KevAndrews/Milestone_Project_1).
+2.	Under the repository name, clicking the dropdown button marked “Code” and then selecting "Clone or download".
+3.	Copying the link under "Clone with HTTPS", to clone the repository using HTTPS.
+4.	Opening Git Bash.
+5.	Changing the current working directory to the location where you want the cloned directory to be made.
+6.	Typing git clone, and pasting the URL copied in Step 3.
+7.	Pressing Enter to create the local clone.
+
+<h1>Credits</h1>
+
+-   Concept: Based on the ficitous School created for Áine Andrews for her Masters degree.
+
+-   Main Images: Photo by [Photographer Javier Trueba](https://unsplash.com/@javotrueba?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) and I used this [Hero Image](https://unsplash.com/photos/iQPr1XkF5F0) and [Sign Up Image](https://unsplash.com/photos/y1GTwSUMRUc) from Unsplash. 
+
+-   Other Images: Photo by [Photographer Christina @ wocintechchat.com](https://unsplash.com/@wocintechchat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) and I used this [HR Image](https://unsplash.com/photos/0Zx1bDv5BNY) from unsplash. 
+
+<h1>Content</h1>
+The Mission statment on the home page and the team descriptions on the about us page were provide by Áine Andrews, all other content was written by the developer.
+
+<h1>Acknowledgements</h1>
+I would like to thank Dick Vlaanderen my mentor for his time, advice and guidance.
+<br/><br/>
+I would also like to thank my wife Áine for the concept of this site and her support throughout its development.
