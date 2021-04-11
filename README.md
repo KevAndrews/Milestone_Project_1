@@ -17,7 +17,7 @@ L.E.A.R.N provides custom English learning courses that align to the real needs 
         3. As a First Time Visitor, I want to be able to find their social media links easily.
 
     -   #### Returning Visitor Goals
-        1. As a Returning Visitor, I want to find information about new courses and deals.
+        1. As a Returning Visitor, I want to find information about new courses.
         2. As a Returning Visitor, I want to find the best / easiest way to get in contact with them with any query.
 
     -   #### Frequent User Goals

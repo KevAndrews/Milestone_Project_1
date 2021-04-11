@@ -262,6 +262,12 @@ footer i:hover {
     min-height: 150px;
 }
 
+.newcourse{
+    color: #FF883E;
+    font-weight: 600;
+    font-size: medium;
+}
+
 /* About Us Styles, Custom Code */
 .teachers h2{
     text-align: center;
