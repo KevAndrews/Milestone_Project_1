@@ -26,12 +26,23 @@ L.E.A.R.N provides custom English learning courses that align to the real needs 
 <h1>Design</h1>
 
 ## Strategy Plane
+While adult english schools in Ireland provide a strict and structured curriculum for students to learn english as a foreign language they often fail to provide the students with the english that is unique to their professional needs and the local english speaking population.
+
+The objective of this project is to give the user the ability to find and sign-up to a course that is aligned to their professional needs.
 
 ## Scope Plane
+This project will look to provide the ficitous company/school L.E.A.R.N Ltd. a company website.
+
+The website will convey the uniqiness of the services provided to the prospective student and a means to contact the school or sign-up to a course.
 
 ## Structure Plane
+As the aim of the site is to provide courses and information to the users the site was developed to be a linear multi-page site. The User has access to a navbar at the top of the page which they can use to navigate to any page on the website.
+
+It was also planned to have contact information and access to social media on all pages for ease of use.
 
 ## Skeleton Plane
+From the structure above I was able to generate the below Wireframes for the site, while these wireframes are guidelines for building the main structure of the site the layout of the content is subject to change.
+
 ### Wireframes
 
 -   #### Balsamiq - [View](https://github.com/KevAndrews/Milestone_Project_1/blob/main/wireframes/Milestone_project_1.bmpr)
@@ -81,6 +92,8 @@ L.E.A.R.N provides custom English learning courses that align to the real needs 
     -   #### Imagery
         -   The hero image and backgroud image on the main page and Contact Us page are from unsplash [Photographer Javier Trueba](https://unsplash.com/@javotrueba?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) and I used this [Hero Image](https://unsplash.com/photos/iQPr1XkF5F0) and [Sign Up Image](https://unsplash.com/photos/y1GTwSUMRUc).
         -   The HR image are from unsplash [Photographer Christina @ wocintechchat.com](https://unsplash.com/@wocintechchat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) and I used this [HR Image](https://unsplash.com/photos/0Zx1bDv5BNY).
+
+    ![Reductions on images](assets/images/reduction.png)
 
 ## Features
 
