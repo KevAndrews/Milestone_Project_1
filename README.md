@@ -148,7 +148,8 @@ From the structure above I was able to generate the below Wireframes for the sit
 -   Unnecessary Horizontal scrollbar and margin-right, need to remove this. Solved this by setting padding and margin to zero for class .row
 -   Set footer to bottom of viewport, found fix on [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/)
 -   Burger menu not working, Issue resolved I was missing the JS cdn at the end of my HTML body
--   Jumbotron Text covers the menu on smaller screens.
+-   Jumbotron Text covers the menu on smaller screens. => remove the Jumbotron and updated the CSS on Callout-container and opaque-overlay
+-   Some display sizes cause an issue with the layout for both Study section and Events section of the Home page
 
 <h1>Deployment</h1>
 
