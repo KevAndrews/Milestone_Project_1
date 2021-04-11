@@ -5,6 +5,8 @@ The scope for this project is to create a responsive and accessible website for 
 L.E.A.R.N provides custom English learning courses that align to the real needs of Professionals looking to learn English as a foreign language in their chosen career.
 <br/><br/>
 
+![Responsive displays](images/responsive.png)
+
 ## User Experience (UX)
 
 -   ### User stories
@@ -93,7 +95,7 @@ From the structure above I was able to generate the below Wireframes for the sit
         -   The hero image and backgroud image on the main page and Contact Us page are from unsplash [Photographer Javier Trueba](https://unsplash.com/@javotrueba?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) and I used this [Hero Image](https://unsplash.com/photos/iQPr1XkF5F0) and [Sign Up Image](https://unsplash.com/photos/y1GTwSUMRUc).
         -   The HR image are from unsplash [Photographer Christina @ wocintechchat.com](https://unsplash.com/@wocintechchat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) and I used this [HR Image](https://unsplash.com/photos/0Zx1bDv5BNY).
 
-    ![Reductions on images](assets/images/reduction.png)
+    ![Reductions on images](images/reduction.png)
 
 ## Features
 
@@ -149,7 +151,20 @@ From the structure above I was able to generate the below Wireframes for the sit
 -   Set footer to bottom of viewport, found fix on [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/)
 -   Burger menu not working, Issue resolved I was missing the JS cdn at the end of my HTML body
 -   Jumbotron Text covers the menu on smaller screens. => remove the Jumbotron and updated the CSS on Callout-container and opaque-overlay
--   Some display sizes cause an issue with the layout for both Study section and Events section of the Home page
+-   Some display sizes cause an issue with the layout for both Study section and Events section of the Home page => I updated the layout of the Font awesome Icons and updated the Study div to be lg-4 instead of md-4 and this corrected the issue.
+
+### Project changes from Wireframe to Development
+
+
+### Known Issues
+-   Study and Event section on the home page slightly overlap on displays at 1000px.
+
+![Overlap issue](images/overlap.png)
+
+
+-   Teachers section image align is a little to the left on smaller screens but centered on most mobile displays.
+
+![Aligment issue](images/teachers.png)
 
 <h1>Deployment</h1>
 
