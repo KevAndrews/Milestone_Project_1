@@ -207,4 +207,6 @@ The Mission statment on the home page and the team descriptions on the about us 
 <h1>Acknowledgements</h1>
 I would like to thank Dick Vlaanderen my mentor for his time, advice and guidance.
 <br/><br/>
+I would also like to thank the team at the Code Institute for all the courses they provided that help me gain the knowledge I needed to build this site,.
+<br/><br/>
 I would also like to thank my wife Áine for the concept of this site and her support throughout its development.
